@@ -1,0 +1,378 @@
+Q : Who said it : "I like your knife, I'm keeping it."
+A : Drax
+B : Black Widow
+C : Steve Rogers
+D : Rocket Raccoon
+Answer : A
+
+Q : What did Peggy Carter promise to Steve Rogers before he crashed Red Skull's bomber?
+A : A Dance
+B : Fondue
+C : A Kiss
+D : A Higher Clearance Level
+Answer : A
+
+Q : Who is Loki's biological father?
+A : Volstagg
+B : Jotunn
+C : Odin
+D : Laufey
+Answer : D
+
+Q : Who played Drax the Destroyer?
+A : Georges St. Pierre
+B : Dave Bautista
+C : Randy Couture
+D : Steve Austin
+Answer : B
+
+Q : What's Jane Foster's profession in the Marvel Cinematic Universe?
+A : Medical Doctor
+B : Geologist
+C : Physicst
+D : Meteorolgist 
+Answer : C
+
+Q : Where did Iron Man first face off against Whiplash?
+A : Paris
+B : Monaco
+C : New York
+D : Daytona
+Answer : B
+
+Q : Who said it : "Nothing goes over my head. My reflexes are too fast. I would catch it."
+A : Steve Rogers
+B : Ivan Vanko
+C : Drax
+D : Emil Blonsky
+Answer : C
+
+Q : Orb holds which Infinity Stone?
+A : The Space Stone
+B : The Mind Stone
+C : The Power Stone
+D : The Time Stone
+Answer : C
+
+Q : Which of these characters DID NOT wear an Iron Man suit in 'Iron Man 3'?
+A : James Rhodes
+B : Pepper Pottss
+C : President Ellis
+D : Happy Hogan
+Answer : D
+
+Q : How many "Infinity Stones" are said to exist in the Marvel Cinematic Universe?
+A : 20
+B : 6
+C : 2
+D : 12
+Answer : B
+
+Q : Who said it : "I recognize the council has made a decision, but given that it's a stupid-ass decision, I've elected to ignore it."
+A : Nick Fury
+B : Black Widow
+C : Tony Stark
+D : Alexander Pierce
+Answer : A
+
+Q : How does Yondu control his deadly hovering arrow?
+A : By Talking To It
+B : With A Hidden Remote
+C : By Whistling
+D : With His Mind Powers
+Answer : C
+
+Q : What's Hawkeye's real name?
+A : Barton Carter
+B : Clint Coulson
+C : Clint Barton
+D : Bart Clinton
+Answer : C
+
+Q : What's Captain America's shield made of?
+A : Titanium Alloy
+B : Mithril
+C : Adamantium
+D : Vibranium
+Answer : D
+
+Q : What was the final movie in Marvel's "Phase I"?
+A : Captain America : The First Avenger
+B : The Avengers
+C : Iron Man 3
+D : Guardians Of The Galaxy
+Answer : B
+
+Q : By which of these other monikers is Odin known?
+A : Beardpapa
+B : The Allfather
+C : The Wisefather
+D : The Truthsayer
+Answer : B
+
+Q : Name this "mastermind" behind the Marvel Cinematic Universe.
+A : Joss Whedon
+B : Kevin Feige
+C : Jon Favreau
+D : Stan Lee
+Answer : B
+
+Q : Who said it : "I have lived most of my life surrounded by my enemies. I would be grateful to die surrounded by my friends."
+A : Drax
+B : Gamora
+C : Black Widow
+D : Loki
+Answer : B
+
+Q : What brother and sister pair from the comics were revealed in the post-credits scene for 'Captain America: The Winter Soldier'?
+A : Sue and Johnny Storm
+B : Andrea and Andreas Von Strucker
+C : Quicksilver And The Scarlet Witch
+D : Satana and Hellstorm
+Answer : C
+
+Q : Forged in the heart of a dying star, what is Thor's hammer's name?
+A : Mjolnir
+B : Thunder Bringer
+C : Fjordir
+D : Anduril
+Answer : A
+
+Q : In which Marvel movie did Samuel L. Jackson first appear as Nick Fury?
+A : Iron Man 2
+B : Thor
+C : The Incredible Hulk
+D : Iron Man
+Answer : D
+
+Q : Who said it : "If I had a blacklight, this place would look like a Jackson Pollock painting."
+A : Star-Lord
+B : Black Widow
+C : Pepper Potts
+D : Tony Stark
+Answer : A
+
+Q : What race is Ronan the Accuser?
+A : Kree
+B : Human
+C : Skrull
+D : Xandarian
+Answer : A
+
+Q : Tesseract is which Infinity Stone?
+A : The Reality Stone
+B : The Sould Stone
+C : The Power Stone
+D : The Space Stone
+Answer : D
+
+Q : What was Red Skull's real name?
+A : Arnim Zola
+B : Johann Schmidt
+C : Joseph Goebbels
+D : Johannes Wagner
+Answer : B
+
+Q : What brothers co-directed 'Captain America: The Winter Soldier'?
+A : Joel & Ethan Coen
+B : Ted & Sam Raimi
+C : Sean & James Gunn
+D : Joe & Anthony Russo
+Answer : D
+
+Q : In 'The Avengers,' what S.H.I.E.L.D. agent does Black Widow say first brought her into the fold?
+A : Hawkeye
+B : Agent Coulson
+C : Peggy Carter
+D : Nick Fury
+Answer : A
+
+Q : What power source fuels Tony Stark's Iron Man suit?
+A : Lithium Ion Battery
+B : Arc Reactor
+C : The Arkstone
+D : The Tesseract
+Answer : B
+
+Q : Who directed 'The Avengers'?
+A : Joss Whedon
+B : James Cameron
+C : James Gunn
+D : David S. Goyer
+Answer : A
+
+Q : What classic video game does Tony Stark catch someone playing on the S.H.I.E.L.D. heli-carrier in 'The Avengers'?
+A : Donkey Kong
+B : Galaga
+C : Pac-Man
+D : Space Invaders
+Answer : B
+
+Q : Which infinity stone is in Tessaract?
+A : Space Stone
+B : Mind Stone
+C : Reality Stone
+D : Power Stone
+Answer : A
+
+Q : Which infinity stone is in Scepter?
+A : Space Stone
+B : Mind Stone
+C : Reality Stone
+D : Power Stone
+Answer : B
+
+Q : Which infinity stone is in Aether?
+A : Space Stone
+B : Mind Stone
+C : Reality Stone
+D : Power Stone
+Answer : C
+
+Q : Which infinity stone is in Orb? 
+A : Reality Stone
+B : Power Stone
+C : Sould Stone
+D : Time Stone
+Answer : B
+
+Q : Which infinity stone is in Eye of Agamotto? 
+A : Time Stone
+B : Sould Stone
+C : Power Stone
+D : Reality Stone
+Answer : A
+
+Q : What infinity stone was last revealed in Marvel Cinematic Universe ? 
+A : Space Stone
+B : Time Stone
+C : Sould Stone
+D : Power Stone
+Answer : C
+
+Q : What year was first Iron Man movie released ?
+A : 2005
+B : 2008
+C : 2010
+D : 2012
+Answer : B
+
+Q : Which movie ended Marvel Cinematic Universe's Phase ?
+A : Iron Man 3
+B : Captain America : The First Avenger
+C : Thor
+D : Marvel's The Avengers
+Answer : D
+
+Q : In which movie did Marvel Cinematic Universe presented first infinity stone?
+A : The Incredible Hulk
+B : Iron Man 2
+C : Captain America: The First Avenger
+D : Marvel's The Avengers
+Answer : C
+
+Q : Which marvel character's movie hasn't been filmed yet ?
+A : Black Panther
+B : Black Widow
+C : Doctor Strange
+D : And-Man
+Answer : B
+
+Q : How many stand-alone Iron Man films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : C
+
+Q : How many stand-alone Captain America films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : C
+
+Q : How many stand-alone Thor films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : C
+
+Q : How many stand-alone Guardians of the Galaxy films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : B
+
+Q : How many stand-alone Doctor Strange films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : How many stand-alone Spider-man films are there in All new Marvel Cinematic Universe?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : How many stand-alone Black Panther films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : How many stand-alone Ant-Man films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : Which of these characters is not a villain
+A : Armin Zola
+B : Deadpool
+C : Mandarin
+D : Dr. Octopus
+Answer : 
+
+Q : Who was called numerous time "a menace"
+A : Daredevil
+B : Wolverine
+C : Spider-man
+D : Iron-man
+Answer : C
+
+Q : What is Professor Xavier's Telepathy enhancing-machine called?
+A : Psychismo
+B : Cerebro
+C : The Cortex
+D : The Mighty Enhancer
+Answer : B
+
+Q : What's the name of the rival shrinking technology in the 2015 film, Ant Man?
+A : Yellowjacket
+B : Bluejacket
+C : Greenjacket
+D : Blackjacket
+Answer : A
+
+Q : What's upcoming sequel to Avengers: Age of Ultron named?
+A : Avengers: Battle of Thanos
+B : Avengers: Time Gaountlet
+C : Avengers: Infinity War
+D : Avengers: Space Battle
+Answer : C
+
+Q : 
+A : 
+B : 
+C :
+D :
+Answer : 
+

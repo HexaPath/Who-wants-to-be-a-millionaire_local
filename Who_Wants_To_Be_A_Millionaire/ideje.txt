@@ -1,0 +1,220 @@
+switch(marveldc)
+                    {
+                        case 1:
+                            switch (hardlvl)
+                                {
+                                    case 1:
+                                        indx = new Random().Next(1, 20);
+                                    break;
+                                    
+                                    case 2:
+                                        indx = new Random().Next(21, 40);
+                                    break;
+                                    
+                                    case 3:
+                                        indx = new Random().Next(41, 60);
+                                    break;
+
+                            connection.Open();                                                                                                                          // odpre povezavo z podatkovno bazo
+                            using (SQLiteCommand command = new SQLiteCommand(connection))                                                                               //ustvari imput za command za connection
+                            {
+                                command.CommandText = "SELECT * FROM gameM WHERE (ID = " + indx + ");";                                                                 // iz baze game bere vprašanje in odgovore glede na id
+                                SQLiteDataReader reader = command.ExecuteReader();                                                                                      // definiranje bralnega dela kode
+                                while (reader.Read())                                                                                                                   // ko bere
+                                {                                                                                                                                        // spremeni text v spremenljivki 
+                                    question = reader.GetString(1);                                                                                                     //vprašanje iz baze
+                                    answera = reader.GetString(2);                                                                                                      //odgovor iz baze
+                                    answerb = reader.GetString(3);                                                                                                      //odgovor iz baze
+                                    answerc = reader.GetString(4);                                                                                                      //odgovor iz baze
+                                    answerd = reader.GetString(5);                                                                                                      //odgovor iz baze
+                                    pravilendb = reader.GetInt32(6);                                                                                                    //pravilni odgovor iz baze
+                                }
+                            }
+                            connection.Close(); 
+                        }  
+                        break;
+
+                        case 2:
+                            switch (hardlvl)
+                                {
+                                    case 1:
+                                        indx = new Random().Next(1, 20);
+                                    break;
+
+                                    case 2:
+                                        indx = new Random().Next(21, 40);
+                                    break;
+
+                                    case 3:
+                                        indx = new Random().Next(41, 60);
+                                    break;
+
+                            connection.Open();                                                                                                                          // odpre povezavo z podatkovno bazo
+                            using (SQLiteCommand command = new SQLiteCommand(connection))                                                                               //ustvari imput za command za connection
+                            {
+                                command.CommandText = "SELECT * FROM gameD WHERE (ID = " + indx + ");";                                                               // iz baze game bere vprašanje in odgovore glede na id
+                                SQLiteDataReader reader = command.ExecuteReader();                                                                                      // definiranje bralnega dela kode
+                                while (reader.Read())                                                                                                                   // ko bere
+                                {                                                                                                                                        // spremeni text v spremenljivki 
+                                    question = reader.GetString(1);                                                                                                     //vprašanje iz baze
+                                    answera = reader.GetString(2);                                                                                                      //odgovor iz baze
+                                    answerb = reader.GetString(3);                                                                                                      //odgovor iz baze
+                                    answerc = reader.GetString(4);                                                                                                      //odgovor iz baze
+                                    answerd = reader.GetString(5);                                                                                                      //odgovor iz baze
+                                    pravilendb = reader.GetInt32(6);                                                                                                    //pravilni odgovor iz baze
+                                }
+                            }
+                            connection.Close();
+                        }
+                        break;
+                    }
+					
+					
+					
+					
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					
+					
+					
+					    /// alternativna izvedba
+					int marveldc = 1;
+					int hardlvl = 1;
+					int indx = 0;
+					int pet = 0;
+        
+					private void randomize()
+						{
+							indikator = new Random().Next(1, 60);
+						}
+
+					private void hardnes()
+						{
+					switch (pet)                                            //vsake petkrat ko odgovori se težavnost spremeni
+						{ 
+						case 4:
+                        hardlvl++;                                      //sprememba težavnosti
+                        pet = 0;                                        //resetira števec
+						break;
+						default:
+                        pet++;
+						break;
+						}
+					}
+
+					
+					
+					
+					
+					
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+			int n = 0;  
+			// bolj reliable za določanje ponovljivih vrednosti		
+			switch (n)
+                {
+                    case 0:
+                        if (uporabljena[0] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++;  nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 1:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 2:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 3:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 4:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 5:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 6:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 7:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 8:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator || uporabljena[8] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 9:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator || uporabljena[8] == indikator || uporabljena[9] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 10:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator || uporabljena[8] == indikator || uporabljena[9] == indikator || uporabljena[10] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 11:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator || uporabljena[8] == indikator || uporabljena[9] == indikator || uporabljena[10] == indikator || uporabljena[11] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 12:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator || uporabljena[8] == indikator || uporabljena[9] == indikator || uporabljena[10] == indikator || uporabljena[11] == indikator
+                            || uporabljena[12] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 13:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator || uporabljena[8] == indikator || uporabljena[9] == indikator || uporabljena[10] == indikator || uporabljena[11] == indikator
+                            || uporabljena[12] == indikator || uporabljena[13] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                    case 14:
+                        if (uporabljena[0] == indikator || uporabljena[1] == indikator || uporabljena[2] == indikator || uporabljena[3] == indikator || uporabljena[4] == indikator || uporabljena[5] == indikator
+                            || uporabljena[6] == indikator || uporabljena[7] == indikator || uporabljena[8] == indikator || uporabljena[9] == indikator || uporabljena[10] == indikator || uporabljena[11] == indikator
+                            || uporabljena[12] == indikator || uporabljena[13] == indikator || uporabljena[14] == indikator)
+                            { MessageBox.Show(Convert.ToString(n)); n++; nakljucno(); }
+                            else { baza(); }
+                    break;
+                }
+				
+				
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+					------------------------------------------------------------------
+				

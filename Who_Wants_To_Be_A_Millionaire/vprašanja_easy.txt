@@ -1,0 +1,160 @@
+Q : Which infinity stone is in Tessaract?
+A : Space Stone
+B : Mind Stone
+C : Reality Stone
+D : Power Stone
+Answer : A
+
+Q : Which infinity stone is in Scepter?
+A : Space Stone
+B : Mind Stone
+C : Reality Stone
+D : Power Stone
+Answer : B
+
+Q : Which infinity stone is in Aether?
+A : Space Stone
+B : Mind Stone
+C : Reality Stone
+D : Power Stone
+Answer : C
+
+Q : Which infinity stone is in Orb? 
+A : Reality Stone
+B : Power Stone
+C : Sould Stone
+D : Time Stone
+Answer : B
+
+Q : Which infinity stone is in Eye of Agamotto? 
+A : Time Stone
+B : Sould Stone
+C : Power Stone
+D : Reality Stone
+Answer : A
+
+Q : What infinity stone was last revealed in Marvel Cinematic Universe ? 
+A : Space Stone
+B : Time Stone
+C : Sould Stone
+D : Power Stone
+Answer : C
+
+Q : What year was first Iron Man movie released ?
+A : 2005
+B : 2008
+C : 2010
+D : 2012
+Answer : B
+
+Q : Which movie ended Marvel Cinematic Universe's Phase ?
+A : Iron Man 3
+B : Captain America : The First Avenger
+C : Thor
+D : Marvel's The Avengers
+Answer : D
+
+Q : In which movie did Marvel Cinematic Universe presented first infinity stone?
+A : The Incredible Hulk
+B : Iron Man 2
+C : Captain America: The First Avenger
+D : Marvel's The Avengers
+Answer : C
+
+Q : Which marvel character's movie hasn't been filmed yet ?
+A : Black Panther
+B : Black Widow
+C : Doctor Strange
+D : And-Man
+Answer : B
+
+Q : How many stand-alone Iron Man films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : C
+
+Q : How many stand-alone Captain America films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : C
+
+Q : How many stand-alone Thor films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : C
+
+Q : How many stand-alone Guardians of the Galaxy films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : B
+
+Q : How many stand-alone Doctor Strange films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : How many stand-alone Spider-man films are there in All new Marvel Cinematic Universe?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : How many stand-alone Black Panther films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : How many stand-alone Ant-Man films are there?
+A : 1
+B : 2
+C : 3
+D : 4
+Answer : A
+
+Q : Which of these characters is not a villain
+A : Armin Zola
+B : Deadpool
+C : Mandarin
+D : Dr. Octopus
+Answer : 
+
+Q : Who was called numerous time "a menace"
+A : Daredevil
+B : Wolverine
+C : Spider-man
+D : Iron-man
+Answer : C
+
+Q : What is Professor Xavier's Telepathy enhancing-machine called?
+A : Psychismo
+B : Cerebro
+C : The Cortex
+D : The Mighty Enhancer
+Answer : B
+
+Q : What's the name of the rival shrinking technology in the 2015 film, Ant Man?
+A : Yellowjacket
+B : Bluejacket
+C : Greenjacket
+D : Blackjacket
+Answer : A
+
+Q : What's upcoming sequel to Avengers: Age of Ultron named?
+A : Avengers: Battle of Thanos
+B : Avengers: Time Gaountlet
+C : Avengers: Infinity War
+D : Avengers: Space Battle
+Answer : C
